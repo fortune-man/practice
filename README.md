@@ -1,2 +1,2 @@
 # Algorithm
-practice problem solving
+문제 해결 연습을 기록하기 위한 저장소입니다.
