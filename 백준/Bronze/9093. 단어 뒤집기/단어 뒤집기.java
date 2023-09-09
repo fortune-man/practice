@@ -1,28 +1,35 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int testCaseNumber = scanner.nextInt();
-        scanner.nextLine(); // 개행 문자 처리
+        Scanner user = new Scanner(System.in);
+        int testCaseNumber = user.nextInt();
+        
+        user.nextLine();
         
         for (int i = 0; i < testCaseNumber; i++) {
-            String sentence = scanner.nextLine();
-            String[] words = sentence.split(" "); // 공백을 기준으로 단어 분리
-            
-            StringBuilder reversedSentence = new StringBuilder();
-            
-            for (String word : words) {
-                String reversedWord = reverseWord(word);
-                reversedSentence.append(reversedWord).append(" ");
-            }
-            
-            System.out.println(reversedSentence.toString().trim()); // 마지막 공백 제거 후 출력
+            String request = user.nextLine();
+            System.out.println(response(request));
         }
+        
     }
     
-    private static String reverseWord(String word) {
-        StringBuilder reversed = new StringBuilder(word);
-        return reversed.reverse().toString();
+    private static String response(String request) {
+        String[] words = request.split(" ");
+        StringBuilder response = new StringBuilder();
+        
+        for (String word: words) {
+            response
+                .append(reverseToken(word))
+                .append(" ");
+        }
+        return response.toString().trim();
+    }
+    
+    private static String reverseToken(String token) {
+        StringBuilder reverseBuilder = new StringBuilder(token);
+        return reverseBuilder
+            .reverse()
+            .toString();
     }
 }
