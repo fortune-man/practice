@@ -6,13 +6,14 @@
 // api 안 쓰고 자료구조와 알고리즘으로 해결
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int j = 1;
+        int k = 1;
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] != nums[i - 1]) {
-                nums[j] = nums[i];
-                j++;
+            if (nums[i] != nums[i-1]) {
+                nums[k] = nums[i];
+                k++;
             }
         }
-        return j;
+        return k;
+        
     }
 }
