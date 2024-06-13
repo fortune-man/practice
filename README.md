@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fortune-man/practice/tree/master/0075-sort-colors) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fortune-man/practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
 | ------- |
@@ -18,3 +19,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fortune-man/practice/tree/master/0075-sort-colors) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fortune-man/practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fortune-man/practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
