@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fortune-man/practice/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/fortune-man/practice/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/fortune-man/practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fortune-man/practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
@@ -20,14 +21,20 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fortune-man/practice/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/fortune-man/practice/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/fortune-man/practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fortune-man/practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/fortune-man/practice/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/fortune-man/practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fortune-man/practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/fortune-man/practice/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/fortune-man/practice/tree/master/0502-ipo) |
