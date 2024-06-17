@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fortune-man/practice/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/fortune-man/practice/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -40,3 +41,11 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/fortune-man/practice/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/fortune-man/practice/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/fortune-man/practice/tree/master/0633-sum-of-square-numbers) |
