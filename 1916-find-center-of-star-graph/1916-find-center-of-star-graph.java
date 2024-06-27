@@ -1,22 +1,27 @@
-
 class Solution {
     public int findCenter(int[][] edges) {
-        int n = Integer.MIN_VALUE;
+        // 최대 시간에 발생하는 정점이 중심이므로 정점을 발생 횟수와 함께 저장하는 해시맵 생성
         HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < edges.length; i++) {
-            map.put(edges[i][0],map.getOrDefault(edges[i][0],0)+1);
-            map.put(edges[i][1],map.getOrDefault(edges[i][1],0)+1);
-            n = Math.max(edges[i][0], n);
-            n = Math.max(edges[i][1], n);
-        }
-
-        System.out.println(map);
-        for(Map.Entry<Integer, Integer> e : map.entrySet()) {
-            if(e.getValue() == n-1){
-                return e.getKey();
+        for(int i = 0; i < edges.length;i++) {
+            for(int j=0; j<edges[0].length; j++){
+                if(!map.containsKey(edges[i][j])) {
+                    map.put(edges[i][j], 1);
+                }
+                int of=map.get(edges[i][j]);
+                of=of+1;
+                map.put(edges[i][j], of);
             }
         }
-        return 0;
+
+        int center = 0;
+        int max = Integer.MIN_VALUE;
+        for(int key:map.keySet()){
+            if(map.get(key)>max){
+                max=map.get(key);
+                center=key;
+            }
+        }
+
+        return center;
     }
 }
