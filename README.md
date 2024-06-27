@@ -75,3 +75,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/fortune-man/practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/fortune-man/practice/tree/master/1916-find-center-of-star-graph) |
