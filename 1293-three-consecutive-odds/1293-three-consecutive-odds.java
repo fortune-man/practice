@@ -3,8 +3,9 @@
 
 class Solution {
     public boolean threeConsecutiveOdds(int[] arr) {
+        final int LENGTH = arr.length-2;
         
-        for (int i = 0; i < arr.length-2; i++){
+        for (int i = 0; i < LENGTH; i++){
             if (validOdd(arr[i]) && validOdd(arr[i+1]) && validOdd(arr[i+2])) {
                 return true;
             }
