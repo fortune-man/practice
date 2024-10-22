@@ -98,12 +98,19 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/fortune-man/practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/fortune-man/practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/fortune-man/practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/fortune-man/practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/fortune-man/practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/fortune-man/practice/tree/master/1484-linked-list-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/fortune-man/practice/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
