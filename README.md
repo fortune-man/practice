@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fortune-man/practice/tree/master/0001-two-sum) |
+| [1063-best-sightseeing-pair](https://github.com/fortune-man/practice/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/fortune-man/practice/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fortune-man/practice/tree/master/0070-climbing-stairs) |
+| [1063-best-sightseeing-pair](https://github.com/fortune-man/practice/tree/master/1063-best-sightseeing-pair) |
 ## Memoization
 |  |
 | ------- |
