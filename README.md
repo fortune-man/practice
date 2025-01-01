@@ -127,4 +127,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fortune-man/practice/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/fortune-man/practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/fortune-man/practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
