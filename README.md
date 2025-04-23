@@ -87,6 +87,7 @@
 | [0001-two-sum](https://github.com/fortune-man/practice/tree/master/0001-two-sum) |
 | [1063-best-sightseeing-pair](https://github.com/fortune-man/practice/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/fortune-man/practice/tree/master/1293-three-consecutive-odds) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fortune-man/practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
