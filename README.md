@@ -87,6 +87,7 @@
 | [0001-two-sum](https://github.com/fortune-man/practice/tree/master/0001-two-sum) |
 | [1063-best-sightseeing-pair](https://github.com/fortune-man/practice/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/fortune-man/practice/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/fortune-man/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fortune-man/practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fortune-man/practice/tree/master/0070-climbing-stairs) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/fortune-man/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
